@@ -31,7 +31,7 @@ body {
   border: solid 5px #ccc;
 }
 
-.hivered {
+.hovered {
   background-color: #333;
   border-color: #fff;
   border-style: dashed;
